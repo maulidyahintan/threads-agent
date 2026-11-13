@@ -7,7 +7,7 @@
 2. **Produk + 2–3 alasan konkret** (bahan, ukuran, fitur, umur).
 3. **Bukti sosial**: harga, rating, jumlah terjual (angka asli dari Shopee).
 4. **Minus jujur** (1 kalimat), bikin lebih dipercaya.
-5. **CTA + link**.
+5. **CTA tanpa link**: "Link di balasan ya 👇". Link affiliate ditaruh di **bagian 2 (balasan)**.
 6. (Opsional) Pertanyaan penutup.
 
 ## Contoh pola
@@ -22,7 +22,10 @@ Gamis buat kondangan tapi tetap adem? Akhirnya nemu 🤍
 Rp[harga] · ⭐[rating] · [terjual] terjual
 Minusnya: warna aslinya sedikit lebih gelap dari foto.
 
-Link 👉 [link affiliate]
+Link-nya di balasan ya kak 👇
+
+--- bagian 2 (balasan) ---
+Ini link-nya 🛒 [link affiliate]
 ```
 
 ## Variasi hook

@@ -30,7 +30,8 @@ Kedua akun sudah tersambung ke Buffer (paket Free, 2/3 channel, timezone Jakarta
 Kolom wajib (sesuai template Buffer): `text,image_url,tags,posting_time`. Tags harus sudah ada di Buffer, jadi biarkan kosong. Waktu `YYYY-MM-DD HH:MM` (WIB, sesuaikan timezone channel di Buffer).
 - 1 file CSV = 1 channel Buffer (upload terpisah per akun).
 - Tanpa baris kosong. Image URL harus URL publik langsung ke file gambar, atau kosongkan dan tambahkan gambar di Buffer.
-- Bulk upload tidak mendukung "first comment", jadi link affiliate ditaruh di dalam Text.
+- **Link affiliate selalu di balasan, bukan di posting utama.** Posting produk = utas 2 bagian lewat composer Buffer (bukan bulk upload): bagian 1 tanpa link ("Link di balasan ya 👇"), bagian 2 berisi link. Paket Free: hanya 1 posting berutas terjadwal per channel, jadi posting produk hanya dijadwalkan untuk hari yang sama. Salinan disimpan di `output/YYYY-MM-DD-produk.md`.
+- Bulk upload (CSV) hanya untuk konten tanpa link.
 - Jangan pernah tulis placeholder (mis. `{LINK}`) di output. Posting yang belum lengkap tidak boleh masuk CSV.
 
 ## Jadwal posting default (WIB)

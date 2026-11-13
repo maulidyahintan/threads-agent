@@ -6,7 +6,7 @@
 1. **Hook**: "[A] vs [B], mending yang mana?"
 2. **Per produk 1–2 baris**: kelebihan utama + harga.
 3. **Kesimpulan**: "Pilih A kalau..., pilih B kalau..."
-4. **CTA**: link (maks 3, satu per produk) atau "link di reply".
+4. **CTA**: "Link dua-duanya di balasan 👇". Link (maks 3) ditaruh di bagian 2 (balasan).
 5. Pertanyaan penutup: "Kakak tim A atau B?"
 
 ## Contoh pola
@@ -19,8 +19,9 @@ Crinkle: ringan banget, nggak perlu disetrika, cocok traveling. ±Rp[harga]
 Pilih wolfis kalau sering dipakai kerja.
 Pilih crinkle kalau sering bepergian.
 
+Kakak tim yang mana? Link di balasan 👇
+
+--- bagian 2 (balasan) ---
 Wolfis 👉 [link]
 Crinkle 👉 [link]
-
-Kakak tim yang mana?
 ```
