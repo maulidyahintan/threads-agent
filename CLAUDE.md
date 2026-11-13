@@ -2,10 +2,12 @@
 
 Repo ini mengelola konten 2 akun Threads milik Intan yang mempromosikan produk lewat **Shopee Affiliate** (1 akun Shopee Affiliate untuk keduanya).
 
-| Akun | Folder | Niche |
-|---|---|---|
-| Syar'i | `accounts/syari/` | Fashion syar'i: gamis, abaya, khimar, kaos kaki, inner, outfit syar'i |
-| Anak | `accounts/anak/` | Fashion anak, mainan, buku anak, perlengkapan bayi & balita |
+| Akun | Threads | Folder | Niche |
+|---|---|---|---|
+| Syar'i | @kianay.aqila | `accounts/syari/` | Fashion syar'i: gamis, abaya, khimar, kaos kaki, inner, outfit syar'i |
+| Anak | @kenzi.abqori | `accounts/anak/` | Fashion anak, mainan, buku anak, perlengkapan bayi & balita |
+
+Kedua akun sudah tersambung ke Buffer (paket Free, 2/3 channel, timezone Jakarta). Paket Free: maks 10 posting terjadwal per channel.
 
 ## Aturan main (wajib)
 - **Hanya posting di akun sendiri.** Tidak ada komen massal/otomatis berisi link di postingan orang lain. Itu spam, melanggar aturan Threads & Shopee Affiliate, dan bikin akun di-ban.
