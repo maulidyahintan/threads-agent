@@ -27,7 +27,7 @@ function parse(src) {
 
 const rows = parse(readFileSync(file, "utf8"));
 const header = rows.shift();
-const expected = ["Text", "Image URL", "Tags", "Posting Time"];
+const expected = ["text", "image_url", "tags", "posting_time"];
 const errors = [];
 if (header.join() !== expected.join()) errors.push(`Header harus: ${expected.join(",")}`);
 

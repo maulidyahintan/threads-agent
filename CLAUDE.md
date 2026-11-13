@@ -27,7 +27,7 @@ Kedua akun sudah tersambung ke Buffer (paket Free, 2/3 channel, timezone Jakarta
 6. Update status produk jadi `terjadwal`, commit, kirim ringkasan ke Intan.
 
 ## Format output (Buffer Bulk Upload)
-Kolom wajib: `Text,Image URL,Tags,Posting Time`. Waktu `YYYY-MM-DD HH:MM` (WIB, sesuaikan timezone channel di Buffer).
+Kolom wajib (sesuai template Buffer): `text,image_url,tags,posting_time`. Tags harus sudah ada di Buffer, jadi biarkan kosong. Waktu `YYYY-MM-DD HH:MM` (WIB, sesuaikan timezone channel di Buffer).
 - 1 file CSV = 1 channel Buffer (upload terpisah per akun).
 - Tanpa baris kosong. Image URL harus URL publik langsung ke file gambar, atau kosongkan dan tambahkan gambar di Buffer.
 - Bulk upload tidak mendukung "first comment", jadi link affiliate ditaruh di dalam Text.
