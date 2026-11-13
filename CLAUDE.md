@@ -12,7 +12,7 @@ Kedua akun sudah tersambung ke Buffer (paket Free, 2/3 channel, timezone Jakarta
 ## Aturan main (wajib)
 - **Hanya posting di akun sendiri.** Tidak ada komen massal/otomatis berisi link di postingan orang lain. Itu spam, melanggar aturan Threads & Shopee Affiliate, dan bikin akun di-ban.
 - Membalas pertanyaan orang ("rekomendasi gamis dong") boleh, tapi **manual oleh Intan**, satu per satu, dan harus benar-benar menjawab.
-- Volume wajar: 1–3 posting/hari per akun. Akun baru: minggu pertama lebih banyak konten tanpa link (pemanasan).
+- Volume wajar: maks 3 posting/hari per akun. Akun baru: minggu pertama lebih banyak konten tanpa link (pemanasan).
 - Rasio konten: ±60% konten bermanfaat/obrolan, ±40% konten produk berlink.
 - Jujur: jangan klaim sudah memakai produk kalau belum. Pakai "lagi aku incar", "reviewnya bagus", "terjual 10rb+".
 - Cantumkan penanda affiliate di bio (mis. "link = affiliate, komisi kecil buat aku 🙏").
@@ -34,5 +34,7 @@ Kolom wajib (sesuai template Buffer): `text,image_url,tags,posting_time`. Tags h
 - Jangan pernah tulis placeholder (mis. `{LINK}`) di output. Posting yang belum lengkap tidak boleh masuk CSV.
 
 ## Jadwal posting default (WIB)
-- Syar'i: 11:30, 19:30 (+ 20:30 opsional)
-- Anak: 12:30, 20:00 (+ 21:00 opsional, jam ibu-ibu santai setelah anak tidur)
+3 posting/hari per akun (mulai 13 Nov 2026):
+- Syar'i: 11:30, 16:00, 19:30
+- Anak: 12:30, 16:30, 20:00
+Mulai 20 Nov: 2 konten tanpa link + 1 posting produk (di jam malam).
