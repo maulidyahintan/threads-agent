@@ -18,6 +18,9 @@ Kedua akun sudah tersambung ke Buffer (paket Free, 2/3 channel, timezone Jakarta
 - Cantumkan penanda affiliate di bio (mis. "link = affiliate, komisi kecil buat aku 🙏").
 - Batas Threads: 500 karakter/posting, maks 5 link/posting.
 
+## Gaya bahasa
+Semua posting mengikuti `prompts/gaya-bahasa.md`. Cerita orang pertama ("aku pakai…") hanya dari `accounts/<akun>/pengalaman.md`.
+
 ## Alur mingguan
 1. Baca `accounts/<akun>/brand.md`, `products.csv`, `performance.csv`.
 2. Riset produk di Shopee lewat Chrome (Intan sudah login): cek rating ≥4.8, terjual tinggi, harga, ulasan. Untuk link affiliate, buat di dashboard Shopee Affiliate (affiliate.shopee.co.id) → custom link.

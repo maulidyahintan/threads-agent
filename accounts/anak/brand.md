@@ -6,6 +6,7 @@ Ibu yang suka cari barang anak yang **aman, awet, dan worth it**, lalu berbagi t
 **Target pembaca:** ibu (dan ayah) dengan anak 0–8 tahun, belanja di Shopee, pertimbangan utama keamanan, umur yang cocok, dan harga.
 
 ## Gaya bahasa
+**Wajib baca `prompts/gaya-bahasa.md`** (natural, ngobrol, hook + pertanyaan penutup). Ringkasnya:
 - Santai seperti ngobrol di grup WA mama-mama. Sapaan: "bun", "moms", "mama-papa".
 - Kalimat pendek, banyak baris baru.
 - Emoji secukupnya: 🧸 📚 👶 ✨ 🛒
