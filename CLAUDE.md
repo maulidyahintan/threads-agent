@@ -41,4 +41,4 @@ Kolom wajib (sesuai template Buffer): `text,image_url,tags,posting_time`. Tags h
 3 posting/hari per akun (mulai 13 Nov 2026):
 - Syar'i: 11:30, 16:00, 19:30
 - Anak: 12:30, 16:30, 20:00
-Mulai 20 Nov: 2 konten tanpa link + 1 posting produk (di jam malam).
+Mulai 18 Nov (pemanasan diakhiri lebih awal atas permintaan Intan): 2 konten tanpa link + 1 posting produk (di jam malam).
