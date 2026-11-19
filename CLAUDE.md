@@ -39,6 +39,8 @@ Kolom wajib (sesuai template Buffer): `text,image_url,tags,posting_time`. Tags h
 
 ## Jadwal posting default (WIB)
 3 posting/hari per akun (mulai 13 Nov 2026):
-- Syar'i: 11:30, 16:00, 19:30
-- Anak: 12:30, 16:30, 20:00
+- Syar'i: 13:30, 16:30, 19:30
+- Anak: 14:00, 17:00, 20:00
+(Digeser 19 Nov sesuai jam aktif penonton di Insights: Sen 13–16, Sel 16–19, Min 19–22 WIB.)
+Semua posting pakai Topic tag (lihat prompts/gaya-bahasa.md), jadi dijadwalkan lewat composer Buffer, bukan bulk upload.
 Mulai 18 Nov (pemanasan diakhiri lebih awal atas permintaan Intan): 2 konten tanpa link + 1 posting produk (di jam malam).

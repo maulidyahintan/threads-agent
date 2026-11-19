@@ -1,52 +1,54 @@
-# Gaya bahasa: natural & ngajak ngobrol (berlaku untuk kedua akun)
+# Gaya bahasa v2 — pendek, personal, bikin orang pengen bales
+(Diperbarui 19 Nov 2026 setelah minggu pertama. Data akun syar'i: 261 views/30 hari, posting 2–14 views, 0 follower, hampir 0 balasan. Penonton terbanyak umur 25–34, Indonesia; minat teratas: Mom Threads, Book Threads, Fashion, Abaya.)
 
-Tujuan: posting terasa ditulis orang biasa yang lagi curhat/berbagi, bukan katalog toko. Orang membalas kalau merasa "ini gue banget" atau ingin ikut beropini.
+## Kenapa sepi
+1. **Terlalu panjang & terlalu "artikel".** Posting kita 300–500 karakter dengan daftar. Posting yang paling banyak dibalas di Threads umumnya 50–150 karakter, satu ide saja.
+2. **Pertanyaannya terlalu umum** ("kakak tim bahan apa?"). Orang malas mikir jawabannya.
+3. **Tanpa Topic tag**, jadi Threads tidak tahu harus menyodorkan ke siapa. Akun baru dengan 0 follower 100% bergantung pada penonton non-follower.
+4. **Tidak ada balasan dari kita** di jam pertama. Algoritma Threads paling memperhitungkan balasan, dan 1 jam pertama menentukan.
 
-## Prinsip
-1. **Buka dengan momen atau pengakuan kecil**, bukan judul. "Tadi pagi…", "Jujur ya…", "Baru sadar…", "Siapa yang…".
-2. **Bahasa ngobrol sehari-hari**: "nggak", "banget", "sih", "deh", "kok", "ternyata". Boleh huruf kecil semua. Hindari kata kaku: "berikut", "merupakan", "sangat direkomendasikan".
-3. **Pendek & bernapas**: 1–2 kalimat per baris, banyak baris kosong. Maksimal 1 daftar per posting, dan daftar tidak wajib.
-4. **Emoji 0–2**, bukan di tiap baris.
-5. **Tutup dengan pertanyaan yang gampang dijawab** (pilih A/B, isi satu kata, cerita singkat). Bukan "bagaimana pendapat kalian?".
-6. **Opini ringan boleh**, biar ada yang setuju/tidak setuju: "menurutku…", "unpopular opinion:".
-7. **Jujur soal pengalaman**: cerita "aku pernah/aku pakai" hanya kalau Intan memang mengalaminya (catat di `accounts/<akun>/pengalaman.md`). Kalau tidak, pakai sudut pandang pengamat: "banyak yang bilang…", "reviewnya rata-rata…", "lagi aku incar".
+## Aturan baru (wajib)
+1. **Maks ±200 karakter untuk konten tanpa link.** 1–4 baris pendek. Tanpa daftar/bullet (kecuali posting produk).
+2. **Satu ide per posting.** Kalau ada 4 tips → jadi 4 posting di hari berbeda.
+3. **Tulis seperti chat ke teman.** Huruf kecil boleh. Pakai: "jujur", "ternyata", "kok", "sih", "deh", "nggak", "banget". Tanpa kata katalog: "rekomendasi", "berikut", "kualitas premium".
+4. **Hook = baris pertama yang bikin berhenti scroll.** Pakai salah satu:
+   - Pengakuan: "jujur aku baru tahu…", "dulu aku kira…"
+   - Momen spesifik: "tadi pas jemput anak…", "baru sadar khimar di lemari…"
+   - Opini ringan (positif, tidak menyerang orang): "menurutku… setuju nggak?"
+   - Relatable: "siapa yang… 🙋‍♀️"
+5. **Pertanyaan penutup yang bisa dijawab dalam 1–3 kata**, spesifik: "umur berapa anaknya mulai…?", "warna khimar paling banyak di lemari kakak?", "A atau B?". Hindari "bagaimana pendapat kalian?".
+6. **Emoji 0–1.**
+7. **Variasi format per hari**: 1 pertanyaan/polling singkat, 1 cerita/pengakuan pendek, 1 tips 1-kalimat atau posting produk.
+8. **Jangan engagement bait** ("komen 'mau' ya", "like kalau setuju") — Threads menurunkan jangkauannya.
+9. **Topic tag wajib** (pilih 1 dari daftar akun di bawah) — diisi di field Topic composer Buffer.
+10. **Jujur**: cerita orang pertama ("aku pakai…") hanya dari `accounts/<akun>/pengalaman.md`. Kalau kosong, pakai sudut pandang pengamat ("banyak yang bilang…", "lagi aku incar").
 
-## Pola hook yang memancing balasan
-- "Jujur, dulu aku kira ___. Ternyata ___."
-- "Unpopular opinion: ___. Setuju nggak?"
-- "Siapa yang masih ___? 🙋‍♀️"
-- "Hal kecil yang bikin ___ jadi lebih gampang:"
-- "Tim ___ atau tim ___?"
-- "Barang ___ yang paling sering ditanya ke aku:"
+## Topic tag
+- syari: Abaya, Gamis, Hijab, Fashion Muslimah, Mom Threads
+- anak: Mom Threads, Book Threads, Parenting, Mainan Anak, Ibu dan Anak
 
-## Sebelum → sesudah
-Sebelum:
-> Bahan gamis yang adem buat cuaca panas ✨ Wolfis: adem, nggak gampang kusut. Crinkle airflow: ringan… Kakak tim bahan apa?
+## Contoh — syar'i
+> jujur, khimar warna yang paling sering aku pakai ujung-ujungnya hitam lagi hitam lagi 😅
+> kakak paling banyak punya warna apa?
 
-Sesudah:
-> panas begini pakai gamis yang salah bahan tuh rasanya kayak dibungkus 🥲
->
-> sejauh ini yang paling aman: wolfis atau crinkle.
-> rayon adem tapi kusutnya nggak nahan.
-> jersey enak dipakai tapi gerah kalau siang.
->
-> kalian bertahan pakai bahan apa?
+> menurutku gamis ada sakunya itu bukan bonus, tapi kewajiban.
+> setuju nggak?
 
-Sebelum:
-> Checklist mainan aman buat anak di bawah 3 tahun ✨ ✅ Tidak ada bagian kecil…
+> pertanyaan penting: jarum pentul atau peniti?
 
-Sesudah:
-> anak umur segini tuh semua barang masuk mulut dulu baru dipikir 😅
->
-> jadi tiap beli mainan aku cek 3 hal:
-> ada bagian kecil yang bisa lepas nggak, catnya ngelupas nggak, ada SNI-nya nggak.
->
-> bun, mainan apa yang paling sering "dicicipin" si kecil?
+## Contoh — anak
+> anak 2 tahun tuh kenapa ya bukunya maunya itu-itu terus, dibacain sampai aku hafal 😂
+> buku apa yang lagi diulang-ulang di rumah?
 
-## Posting produk (link tetap di balasan)
-> sempet ragu beli khimar 2 layer online, takut nerawang.
-> ternyata yang ini ulasannya rata-rata bilang tebel tapi tetep adem, terjual 10rb+ ⭐4.9
->
-> minusnya: warna mocca-nya agak lebih gelap dari foto.
->
-> link aku taruh di balasan ya 👇
+> kado ultah anak temen paling aman menurutku: buku.
+> nggak bunyi, nggak berantakan 😆 setuju?
+
+> bun, anaknya mulai pakai sepatu sendiri umur berapa?
+
+## Posting produk (utas 2 bagian, link di balasan)
+Bagian 1, maks ±250 karakter, tanpa bullet panjang:
+> handsock yang nggak melorot pas naik motor ternyata ada 🧕
+> ⭐4.8, terjual 9rb+, Rp22rb-an. minusnya tokonya nggak terima retur, jadi cek ukuran dulu.
+> link di balasan ya 👇
+Bagian 2:
+> ini link-nya kak 🛒 [link affiliate]
